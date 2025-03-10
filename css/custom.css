@@ -66,13 +66,13 @@
 .price .usd{
 	float: left;
     color: #27ae60;
-	font-size: 1.8rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+	font-size: 1.2rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .price .khr{
 	float: right;
     color: #ff5733;
-	font-size: 1.8rem; padding: 5px 10px;
+	font-size: 1.2rem;
 }    
 
 .social-links li {
